@@ -18,7 +18,7 @@ Neste projeto, construi uma pequena aplicação no estilo "todo list" utilizando
 
 <div align="center">
   <img src="./src/assets/demo/demo-desktop.gif" width="450px">
-  <img src="./src/assets/demo/demo-mobile.gif" height="450px">
+  <img src="./src/assets/demo/demo-mobile.gif" width="300px">
 </div>
 <br>
 
